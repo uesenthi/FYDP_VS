@@ -1,0 +1,5 @@
+c:\users\bbmesh\documents\visual studio 2017\Projects\NamedPipeTest\NamedPipeTest\bin\Debug\NamedPipeTest.exe.config
+c:\users\bbmesh\documents\visual studio 2017\Projects\NamedPipeTest\NamedPipeTest\bin\Debug\NamedPipeTest.exe
+c:\users\bbmesh\documents\visual studio 2017\Projects\NamedPipeTest\NamedPipeTest\bin\Debug\NamedPipeTest.pdb
+c:\users\bbmesh\documents\visual studio 2017\Projects\NamedPipeTest\NamedPipeTest\obj\Debug\NamedPipeTest.exe
+c:\users\bbmesh\documents\visual studio 2017\Projects\NamedPipeTest\NamedPipeTest\obj\Debug\NamedPipeTest.pdb
