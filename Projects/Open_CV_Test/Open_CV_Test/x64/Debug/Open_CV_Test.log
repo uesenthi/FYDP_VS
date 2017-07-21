@@ -1,3 +1,31 @@
 ﻿  main.cpp
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(75): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(75): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(75): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(76): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(76): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(76): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(77): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(77): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(77): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(78): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(78): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(79): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(79): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(80): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(80): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(153): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(167): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   Open_CV_Test.vcxproj -> C:\Users\BBMesh\documents\visual studio 2017\Projects\Open_CV_Test\x64\Debug\Open_CV_Test.exe
   Open_CV_Test.vcxproj -> C:\Users\BBMesh\documents\visual studio 2017\Projects\Open_CV_Test\x64\Debug\Open_CV_Test.pdb (Partial PDB)
