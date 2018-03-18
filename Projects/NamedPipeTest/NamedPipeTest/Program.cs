@@ -34,11 +34,10 @@ namespace NamedPipeTest
             //pipeServer.Read(buff, 0, 1024);
             */
             string[] coord;
-            string[] circles = File.ReadAllLines(@"S:/Unity/Projects/Billiards_Game/Assets/Pool Billiard Table/Scripts/circles_coordinates_record.txt");
-            char[] split = new char[3];
-            split[0] = '[';
-            split[1] = ']';
-            split[2] = ',';
+            string[] circles = File.ReadAllLines(@"S:/Unity/Projects/FYDP-Unity/colour_coordinates.txt");
+            char[] split = new char[2];
+            split[0] = '-';
+            split[1] = ',';
             foreach (string circle in circles)
             {
                 coord = circle.Split(split);

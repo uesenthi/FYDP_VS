@@ -1,0 +1,4 @@
+1-cue,-nan(ind),-nan(ind)
+2-black,inf,inf
+3-purple,inf,inf
+4-orange,inf,inf
