@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.pdb
+Projects/Open_CV_Test/x64/Debug/Open_CV_Test.ilk
+*.exe
+*.tlog
+*.ilk
+*.lastbuildstate
+*.suo
+*.config
+*.db
+*.obj
