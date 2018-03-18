@@ -160,8 +160,8 @@ int main(int argc, char** argv) {
 	cvtColor(cameraFeed, HSV, COLOR_BGR2HSV);
 	std::ofstream outfile("./colour_coordinates.txt");
 	//Create a dictionary for all possible configs for balls
-	
-	/*where 
+
+	/*where
 	int H_MIN = 5;
 	int H_MAX = 26;
 	int S_MIN = 137;
@@ -175,10 +175,10 @@ int main(int argc, char** argv) {
 	//Populate the dictionary with the threshold for all colours
 	Threshold yellow = { 5, 137, 196, 26, 256, 256 };
 	Threshold white = { 0, 0, 168, 26, 7, 256 };
-	
+
 	Range.insert(pair<string, Threshold>("yellow", yellow));
-	Range.insert(pair<string, Threshold>("white", white));
-	
+	Range.insert(pair<string, Threshold>("cue", white));
+
 	//For all colours, find x,y coordinates
 	for (std::map<string, Threshold>::iterator iter = Range.begin(); iter != Range.end(); ++iter)
 	{
@@ -189,7 +189,7 @@ int main(int argc, char** argv) {
 		H_MAX = Range[colour].Range[3];
 		S_MAX = Range[colour].Range[4];
 		V_MAX = Range[colour].Range[5];
-		
+
 		inRange(HSV, Scalar(H_MIN, S_MIN, V_MIN), Scalar(H_MAX, S_MAX, V_MAX), threshold);
 		morphOps(threshold);
 		trackFilteredObject(x, y, threshold, cameraFeed);
@@ -200,14 +200,14 @@ int main(int argc, char** argv) {
 	/*
 	cvtColor(cameraFeed, HSV, COLOR_BGR2HSV);
 	inRange(HSV, Scalar(H_MIN, S_MIN, V_MIN), Scalar(H_MAX, S_MAX, V_MAX), threshold);
-	
+
 	//pass in thresholded frame to our object tracking function
 	//this function will return the x and y coordinates of the
 	//filtered object
 	if (trackObjects)
-		trackFilteredObject(x, y, threshold, cameraFeed);
+	trackFilteredObject(x, y, threshold, cameraFeed);
 
-	//show frames 
+	//show frames
 	imshow(windowName2, threshold);
 	imshow(windowName, cameraFeed);
 	imshow(windowName1, HSV);
@@ -216,7 +216,7 @@ int main(int argc, char** argv) {
 	//delay 30ms so that screen can refresh.
 	//image will not appear without this waitKey() command
 	waitKey(30);
-	
+
 	*/
 
 	return 0;

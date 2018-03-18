@@ -1,7 +1,28 @@
 ﻿  main.cpp
 c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(115): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(128): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(129): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(96): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(96): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(97): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(97): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(98): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(98): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(99): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(99): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(100): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(100): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(101): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(101): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(172): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(185): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(186): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(261): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(300): warning C4244: 'argument': conversion from 'double' to 'uchar', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(436): warning C4244: 'argument': conversion from 'double' to 'uchar', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(606): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(612): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(642): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(635): warning C4101: 'e': unreferenced local variable
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(679): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\bbmesh\documents\visual studio 2017\projects\open_cv_test\open_cv_test\main.cpp(680): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Open_CV_Test.vcxproj -> C:\Users\BBMesh\Documents\Visual Studio 2017\Projects\Open_CV_Test\x64\Debug\Open_CV_Test.exe
   Open_CV_Test.vcxproj -> C:\Users\BBMesh\Documents\Visual Studio 2017\Projects\Open_CV_Test\x64\Debug\Open_CV_Test.pdb (Partial PDB)
